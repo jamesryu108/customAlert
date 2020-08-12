@@ -15,6 +15,7 @@
 		9E275BF924E39D9800A9FDE4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E275BF724E39D9800A9FDE4 /* LaunchScreen.storyboard */; };
 		9E275C0424E39D9900A9FDE4 /* customAlertTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E275C0324E39D9900A9FDE4 /* customAlertTests.swift */; };
 		9E275C0F24E39D9900A9FDE4 /* customAlertUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E275C0E24E39D9900A9FDE4 /* customAlertUITests.swift */; };
+		9E275C1D24E39DC300A9FDE4 /* SampleAlertViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E275C1C24E39DC300A9FDE4 /* SampleAlertViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9E275C0A24E39D9900A9FDE4 /* customAlertUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = customAlertUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E275C0E24E39D9900A9FDE4 /* customAlertUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = customAlertUITests.swift; sourceTree = "<group>"; };
 		9E275C1024E39D9900A9FDE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E275C1C24E39DC300A9FDE4 /* SampleAlertViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SampleAlertViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				9E275BEC24E39D9800A9FDE4 /* AppDelegate.swift */,
 				9E275BEE24E39D9800A9FDE4 /* SceneDelegate.swift */,
 				9E275BF024E39D9800A9FDE4 /* ViewController.swift */,
+				9E275C1C24E39DC300A9FDE4 /* SampleAlertViewController.swift */,
 				9E275BF224E39D9800A9FDE4 /* Main.storyboard */,
 				9E275BF524E39D9800A9FDE4 /* Assets.xcassets */,
 				9E275BF724E39D9800A9FDE4 /* LaunchScreen.storyboard */,
@@ -262,6 +265,7 @@
 				9E275BF124E39D9800A9FDE4 /* ViewController.swift in Sources */,
 				9E275BED24E39D9800A9FDE4 /* AppDelegate.swift in Sources */,
 				9E275BEF24E39D9800A9FDE4 /* SceneDelegate.swift in Sources */,
+				9E275C1D24E39DC300A9FDE4 /* SampleAlertViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
